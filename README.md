@@ -14,7 +14,7 @@ You said:
 </div>
 
 ###
-<div align="right">
+<div align="right" style="display: flex; justify-content: flex-end;>
 <img src="https://github.com/C0hErYl/C0hErYl/blob/main/4213deea514706b99f3cbf10a0a3269a.gif" alt="Doraemon eating pizza" width="300" />
 </div>
 
