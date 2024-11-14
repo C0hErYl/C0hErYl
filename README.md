@@ -9,6 +9,7 @@
 
 ###
 
+<img src="https://github.com/yourusername/yourrepository/raw/main/image.png" alt="Doraemon eating pizza" width="300" />
 
 
 ###
