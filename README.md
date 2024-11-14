@@ -50,7 +50,7 @@
 
 
 
-![Snake animation]([https://github.com/C0hErYl/C0hErYl/blob/output/snake.svg](https://github.com/C0hErYl/C0hErYl/tree/main/.github/workflows))
+![Snake animation]([[https://github.com/C0hErYl/C0hErYl/blob/output/snake.svg](https://github.com/C0hErYl/C0hErYl/tree/main/.github/workflows)](https://github.com/C0hErYl/C0hErYl/blob/main/.github/workflows/snake.yml))
 
 
 
