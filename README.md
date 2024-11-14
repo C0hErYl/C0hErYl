@@ -1,62 +1,55 @@
+<h2 align="left">Hi 👋! My name is C0hErYl, and I'm a tech enthusiast and student learning software development.</h2>
 
-### Hi there, I'm **@C0hErYl!** 👋  
-<div align="center">
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40px">
-</div>
-
-<br>
-
-🎓 **Currently working on:**  
-<span style="color: #ff6b6b;">📝 School assignments</span> and learning new technologies.  
-
-💻 **Learning:**  
-- ![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)
-- ![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
-- ![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white)
-- ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-- ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-- ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
-
----
-
-### 🚀 **About Me:**  
-- 🌱 Currently learning a variety of languages & technologies.
-- 🧑‍🤝‍🧑 Fun fact: I enjoy working in a team to solve problems!
-  
----
-
-### 🛠️ **Tech Stack:**
+###
 
 <div align="center">
-  <img src="https://github-readme-tech-stack.vercel.app/api/cards?line1=Python,JS,orange,python&line2=HTML,css3,purple,html&line3=Csharp,sql,blue,sql" alt="Tech Stack" width="400px">
+  <img src="https://github-readme-stats.vercel.app/api?username=C0hErYl&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=C0hErYl&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
----
+###
 
-### 🎨 **GitHub Stats:**
+<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=C0hErYl&show_icons=true&theme=radical" alt="GitHub Stats" width="450px">
-</p>
+###
 
----
-
-### 🌀 **Languages Pie Chart:**
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=C0hErYl&layout=compact&theme=radical" alt="Top Languages" width="400px">
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sql/sql-original.svg" height="30" alt="sql logo" />
 </div>
 
----
+###
 
-### 🎶 **Now Playing:**
+### 🛠️ Tech Stack & Tools:
+- **Visual Studio Code**  
+- **Microsoft Visual Studio 2022**  
+- **VMware Workstation**  
+- **Cisco Packet Tracer**  
+- **SQL Server Management Studio 20**  
+- **MySQL Workbench 8.0 CE**
 
-<div align="center">
-  <img src="https://spotify-github-profile.vercel.app/api/view?uid=&cover_image=true&theme=novatorem&show_offline=false&bar_color=53b14f&bar_color_cover=false" alt="Now Playing" width="350px">
+###
+
+<div align="left">
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
 </div>
 
----
+###
 
-For more interactive fun, you can create some animations with the help of SVG or use more badge icons and animated tools like [GitHub Profile Trophy](https://github.com/ryo-ma/github-profile-trophy) or [GitHub Profile ReadMe Generator](https://arturssmirnovs.github.io/github-profile-readme-generator/).
+<br clear="both">
 
----
+<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
+
+###
