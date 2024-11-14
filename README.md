@@ -50,7 +50,7 @@
 
 <br clear="both">
 
-![Snake animation](https://github.com/C0hErYl/C0hErYl/blob/output/snake.svg)
+![Snake animation]([https://github.com/C0hErYl/C0hErYl/blob/output/snake.svg](https://github.com/C0hErYl/C0hErYl/tree/main/.github/workflows))
 
 
 
