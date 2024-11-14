@@ -9,7 +9,7 @@
 
 ###
 
-<img src="[https://github.com/yourusername/yourrepository/raw/main/image.png](https://github.com/C0hErYl/C0hErYl/blob/main/4213deea514706b99f3cbf10a0a3269a.gif)" alt="Doraemon eating pizza" width="300" />
+<img src="https://github.com/yourusername/yourrepository/raw/main/image.png" alt="Doraemon eating pizza" width="300" />
 
 
 ###
@@ -25,9 +25,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql logo"  />
 </div>
 
 ###
