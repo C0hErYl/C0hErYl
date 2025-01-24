@@ -1,33 +1,20 @@
-<h2 align="left">Hi 👋! My name is C0hErYl</h2>
+<h2 align="left">Hi 👋! I'm C0hErYl</h2>
 
-###
-
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=C0hErYl&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=C0hErYl&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+<div>
+  <img src="https://github.com/C0hErYl/C0hErYl/blob/main/4213deea514706b99f3cbf10a0a3269a.gif" alt="Doraemon eating pizza" width="300" />
 </div>
-
-###
-
-<!-- Latest commit activity -->
-![commit activity](https://github-readme-stats.vercel.app/api/commits?username=C0hErYl&repository=YOUR-REPO-NAME)
 
 ###
 
 <!-- Streak stats -->
 ![GitHub streak](https://github-readme-streak-stats.herokuapp.com/?user=C0hErYl&theme=dracula)
 
-###
-
-![GitHub contributions](https://github-readme-activity-graph.cyclic.app/graph?username=C0hErYl&theme=dracula)
-
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=C0hErYl&show_icons=true&theme=dracula)
 
 ###
 
-<div>
-  <img src="https://github.com/C0hErYl/C0hErYl/blob/main/4213deea514706b99f3cbf10a0a3269a.gif" alt="Doraemon eating pizza" width="300" />
-</div>
 
+---
 ###
 
 <!-- Tech stack -->
@@ -54,3 +41,7 @@
 - **Cisco Packet Tracer**  
 - **SQL Server Management Studio 20**  
 - **MySQL Workbench 8.0 CE**
+---
+### 🏆 Achievements:
+![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=C0hErYl)
+
