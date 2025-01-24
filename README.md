@@ -19,6 +19,11 @@
 
 ###
 
+![GitHub contributions](https://github-readme-activity-graph.cyclic.app/graph?username=C0hErYl&theme=dracula)
+
+
+###
+
 <div>
   <img src="https://github.com/C0hErYl/C0hErYl/blob/main/4213deea514706b99f3cbf10a0a3269a.gif" alt="Doraemon eating pizza" width="300" />
 </div>
