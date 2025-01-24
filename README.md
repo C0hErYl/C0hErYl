@@ -1,9 +1,3 @@
-
-
-Share
-
-
-You said:
 <h2 align="left">Hi 👋! My name is C0hErYl</h2>
 
 ###
@@ -14,13 +8,24 @@ You said:
 </div>
 
 ###
+
+<!-- Latest commit activity -->
+![commit activity](https://github-readme-stats.vercel.app/api/commits?username=C0hErYl&repository=YOUR-REPO-NAME)
+
+###
+
+<!-- Streak stats -->
+![GitHub streak](https://github-readme-streak-stats.herokuapp.com/?user=C0hErYl&theme=dracula)
+
+###
+
 <div>
   <img src="https://github.com/C0hErYl/C0hErYl/blob/main/4213deea514706b99f3cbf10a0a3269a.gif" alt="Doraemon eating pizza" width="300" />
 </div>
 
-
 ###
 
+<!-- Tech stack -->
 <div align="left" >
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo" />
   <img width="12" />
@@ -36,7 +41,6 @@ You said:
 </div>
 
 ###
-###
 
 ### 🛠️ Tech Stack & Tools:
 - **Visual Studio Code**  
@@ -45,6 +49,3 @@ You said:
 - **Cisco Packet Tracer**  
 - **SQL Server Management Studio 20**  
 - **MySQL Workbench 8.0 CE**
-
-###
-
